@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(184, 123, 184);
+}
+.mariami{
+    height:100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 40px;
+}
+.mariam2{
+    background-color:orange;
+    height:100px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 25px;
+}
+.mariam3{
+    background-color:yellow;
+    height:100px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 25px;
+}
+.mariam4{
+    background-color:rgb(41, 128, 0);
+    height:100px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 25px;
+}
+.mariam5{
+    background-color:blue;
+    height:100px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 25px;
+}
+.mariam6{
+    background-color:indigo;
+    height:100px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 25px;
+}
+.mariam7{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 25px;
+}
+.container{
+    display: flex;
+}

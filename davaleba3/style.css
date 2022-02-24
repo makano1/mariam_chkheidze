@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+}
+.mariam img{
+    height: 500px;
+    width: 500px;
+}
+.mariam1{
+    padding: 50px;
+}
+
+.mariam1 p{
+    font-size: 20px;
+    color: green;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 40px;
+}
+.plus{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

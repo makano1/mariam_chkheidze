@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title> მარიამ ჩხეიძე </title>
+<likn rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="main1">
+    <div class ="square" ></div>
+    <div class ="square" ></div>
+    <div class ="square" ></div>
+    <div class ="square" ></div>
+</div>
+<div class="main">
+     <div class="mariam"><img src="uk.img"></div>
+     <div class="mariam1"><p>The flag of Ukraine is a banner of two equally sized horizontal bands of blue and yellow. The combination of blue and yellow as a symbol of Ukrainian lands comes from the flag of the Kingdom of Galici Volhynia used in the 12th century</p></div>
+</div>
+<div class="main">
+    <div class="mariam"><img src="uk.img"></div>
+     <div class="mariam1"><p>The flag of Ukraine is a banner of two equally sized horizontal bands of blue and yellow. The combination of blue and yellow as a symbol of Ukrainian lands comes from the flag of the Kingdom of Galici Volhynia used in the 12th century</p></div>
+</div>
+<div class="main1">
+    <div class ="square" ></div>
+    <div class ="square" ></div>
+    <div class ="square" ></div>
+    <div class ="square" ></div>
+</div>
+</body>
+</html>
